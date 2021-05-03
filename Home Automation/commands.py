@@ -95,7 +95,8 @@ rgbDoc = """[magenta]
 				WHITE
 			[/cyan]
 
-			[red]To turn off your LED type "rgb off"[/red]
+			[red]To turn off your LED type "rgb off".
+			NOTE: RGB values should be from 0 to 10.[/red]
 			[/magenta]
 """
 
@@ -108,11 +109,11 @@ fanDoc = """[magenta]
 """
 
 helpDoc = """[magenta]
-			[cyan]FAN[/cyan]       Provides acces to DC-fan connected.[/magenta]
+			[cyan]FAN[/cyan]       Provides acces to DC-fan connected.
 			[cyan]HELP[/cyan]      Provides Help information for the application.
 			[cyan]QUIT[/cyan]      Closes the Application.
 			[cyan]RGB[/cyan]       Provides acces to RGB LED.
-			[cyan]TIMER[/cyan]     Provides a command-line timer.
+			[cyan]TIMER[/cyan]     Provides a command-line timer.[/magenta]
 """
 def string_to_rgb(argument):
 	switcher = rgb_data
