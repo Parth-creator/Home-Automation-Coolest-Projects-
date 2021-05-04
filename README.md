@@ -25,8 +25,7 @@ Some pics of my device
 ![WhatsApp Image 2021-05-04 at 09 26 15 (9)](https://user-images.githubusercontent.com/65723218/116959581-91ce2480-acbb-11eb-886e-c9afd0cbf2b1.jpeg)
 ![WhatsApp Image 2021-05-04 at 09 26 15 (10)](https://user-images.githubusercontent.com/65723218/116959582-9266bb00-acbb-11eb-81a4-4ace8998fb9f.jpeg)
 ![WhatsApp Image 2021-05-04 at 09 26 15](https://user-images.githubusercontent.com/65723218/116959583-92ff5180-acbb-11eb-9a2c-06b8cafd7a6c.jpeg)
-![WhatsApp Image 2021-05-04 at 09 25 07 (1)](https://user-images.githubusercontent.com/65723218/116959586-9397e800-acbb-11eb-9a8f-dcc304db393b.jpeg)
-![WhatsApp Image 2021-05-04 at 09 25 07 (2)](https://user-images.githubusercontent.com/65723218/116959587-94307e80-acbb-11eb-92f0-bd6f35d5f1dc.jpeg)
+
 
 
 
