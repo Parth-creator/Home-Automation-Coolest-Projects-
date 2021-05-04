@@ -47,7 +47,7 @@ Here is the circuit diagram for the device. Make sure to put them right.
       
   * To Turn on the fan type "fan on" and to off it type "fan off".
     
-   <img src="https://user-images.githubusercontent.com/65723218/116962500-bd550d00-acc3-11eb-9324-0f9d6f8f5fbc.png" width="350" height="300"/>
+   <img src="https://user-images.githubusercontent.com/65723218/116962500-bd550d00-acc3-11eb-9324-0f9d6f8f5fbc.png" width="300" height="300"/>
    
   #### RGB command
   
