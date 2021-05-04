@@ -36,6 +36,53 @@ Here is the circuit diagram for the device. Make sure to put them right.
     
     ![image](https://user-images.githubusercontent.com/65723218/116961908-2fc4ed80-acc2-11eb-8414-7ad3302b4b1b.png)
 
+### Commands and Their Functions
+      
+  #### Fan command
+  
+  * Type "fan" in the application which will give you the information of this command
+  
+      ![image](https://user-images.githubusercontent.com/65723218/116962072-a82bae80-acc2-11eb-9508-113070420d98.png)
+
+  * To Turn on the fan type "fan on" and to off it type "fan off".
+    
+    ON    
+    ![image](https://user-images.githubusercontent.com/65723218/116962500-bd550d00-acc3-11eb-9324-0f9d6f8f5fbc.png)
+    
+    OFF
+    ![image](https://user-images.githubusercontent.com/65723218/116962528-d1007380-acc3-11eb-8c95-77df786af8ee.png)
+   
+    
+  #### RGB command
+  
+  * Type "rgb" in the application which will give you the information of this command.
+
+    ![image](https://user-images.githubusercontent.com/65723218/116962450-9f87a800-acc3-11eb-8821-5b1b09db5b9b.png)
+   
+  * Type "rgb magenta" for magenta colour.
+      
+      ![image](https://user-images.githubusercontent.com/65723218/116962610-115ff180-acc4-11eb-855d-a33795f26ba1.png)
+
+  * Similarly one could customize the device according to his or her personality like I did.
+        
+       ![image](https://user-images.githubusercontent.com/65723218/116962705-57b55080-acc4-11eb-950b-556164f3def3.png)
+
+  #### Timer command    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
