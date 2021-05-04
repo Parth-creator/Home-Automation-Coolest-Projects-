@@ -11,7 +11,7 @@ Here is the circuit diagram for the device. Make sure to put them right.
 
 ### My Device
 
-<img src="https://user-images.githubusercontent.com/65723218/116960378-d3f86580-acbd-11eb-9d95-56cf2923a35a.jpeg" width="300" height="500"/>
+<img src="https://user-images.githubusercontent.com/65723218/116960378-d3f86580-acbd-11eb-9d95-56cf2923a35a.jpeg" width="500" height="300"/>
 ![WhatsApp Image 2021-05-04 at 09 25 08 (2)](https://user-images.githubusercontent.com/65723218/116960384-d8248300-acbd-11eb-8201-044c2d7a4db2.jpeg)
 
 **NOTE :** 
