@@ -47,21 +47,21 @@ Here is the circuit diagram for the device. Make sure to put them right.
       
   * To Turn on the fan type "fan on" and to off it type "fan off".
     
-   <img src="https://user-images.githubusercontent.com/65723218/116962500-bd550d00-acc3-11eb-9324-0f9d6f8f5fbc.png" width="400" height="300"/>
+   <img src="https://user-images.githubusercontent.com/65723218/116962500-bd550d00-acc3-11eb-9324-0f9d6f8f5fbc.png" width="350" height="300"/>
    
   #### RGB command
   
   * Type "rgb" in the application which will give you the information of this command.
     
-    <img src=https://user-images.githubusercontent.com/65723218/116962450-9f87a800-acc3-11eb-8821-5b1b09db5b9b.png"" width="400" height="300"/>
+    <img src=https://user-images.githubusercontent.com/65723218/116962450-9f87a800-acc3-11eb-8821-5b1b09db5b9b.png"" width="350" height="300"/>
    
   * Type "rgb magenta" for magenta colour.
     
-    <img src="https://user-images.githubusercontent.com/65723218/116962610-115ff180-acc4-11eb-855d-a33795f26ba1.png" width="400" height="300"/>
+    <img src="https://user-images.githubusercontent.com/65723218/116962610-115ff180-acc4-11eb-855d-a33795f26ba1.png" width="350" height="300"/>
 
   * Similarly one could customize the device according to his or her personality like I did.
    
-   <img src="https://user-images.githubusercontent.com/65723218/116962705-57b55080-acc4-11eb-950b-556164f3def3.png" width="400" height="300"/>
+   <img src="https://user-images.githubusercontent.com/65723218/116962705-57b55080-acc4-11eb-950b-556164f3def3.png" width="350" height="300"/>
 
   #### Timer command    
     
