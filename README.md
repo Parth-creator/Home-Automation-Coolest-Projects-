@@ -28,7 +28,7 @@ Here is the circuit diagram for the device. Make sure to put them right.
 * It will ask for Username and Password, enter the Username and Password which you want to make default.
    For Example:
    
-          ![image](https://user-images.githubusercontent.com/65723218/116961591-63534800-acc1-11eb-9914-d9c324a00fb9.png)
+    ![image](https://user-images.githubusercontent.com/65723218/116961591-63534800-acc1-11eb-9914-d9c324a00fb9.png)
     
     **NOTE: Password will not be visible**
  
