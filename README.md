@@ -14,6 +14,7 @@ Here is the circuit diagram for the device. Make sure to put them right.
 ![WhatsApp Image 2021-05-04 at 09 25 07 (1)](https://user-images.githubusercontent.com/65723218/116960378-d3f86580-acbd-11eb-9d95-56cf2923a35a.jpeg)
 ![WhatsApp Image 2021-05-04 at 09 25 08 (2)](https://user-images.githubusercontent.com/65723218/116960384-d8248300-acbd-11eb-8201-044c2d7a4db2.jpeg)
 
+**NOTE : **
 
 
 
