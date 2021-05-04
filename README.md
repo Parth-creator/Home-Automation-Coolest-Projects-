@@ -5,7 +5,8 @@ This device do not have any major usecase. However this could encourage some you
 
 ## Setting Up the Hardware
 
-![Circuit Diagram](https://user-images.githubusercontent.com/65723218/116958340-deaffc00-acb7-11eb-8957-d0cc5eb98d9e.jpeg)
+<img src="https://user-images.githubusercontent.com/65723218/116958340-deaffc00-acb7-11eb-8957-d0cc5eb98d9e.jpeg" width="500", height="300">
+![Circuit Diagram]()
 
 Here is the circuit diagram for the device. Make sure to put them right.
 
