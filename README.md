@@ -14,15 +14,27 @@ Here is the circuit diagram for the device. Make sure to put them right.
 <img src="https://user-images.githubusercontent.com/65723218/116960378-d3f86580-acbd-11eb-9d95-56cf2923a35a.jpeg" width="500" height="400"/>
 <img src="https://user-images.githubusercontent.com/65723218/116960384-d8248300-acbd-11eb-8201-044c2d7a4db2.jpeg" width="500" height="400"/>
 
-**NOTE : I had put a diffuser between the RGB LED and the fan to make it more softer.**
+**NOTE : I had put a diffuser between the RGB LED and the fan to make it more softer. Also you need to plug the arduino in COM8 of your computer**
 
 ## Setting up the Software
 
 * First clone the Github Repository
+
 * Then go into RGB-Timer-Coolest-Projects and then into Home Automation
+
 * Then type
   ![image](https://user-images.githubusercontent.com/65723218/116961373-d1e3d600-acc0-11eb-9723-efeab6e1f321.png)
 
+* It will ask for Username and Password, enter the Username and Password which you want to make default.
+   For Example:
+   
+          ![image](https://user-images.githubusercontent.com/65723218/116961591-63534800-acc1-11eb-9914-d9c324a00fb9.png)
+    
+    **NOTE: Password will not be visible**
+ 
+* Then type "help" and this will give you the list of commands which you could use in this Application
+    
+    ![image](https://user-images.githubusercontent.com/65723218/116961908-2fc4ed80-acc2-11eb-8414-7ad3302b4b1b.png)
 
 
 
