@@ -42,33 +42,33 @@ Here is the circuit diagram for the device. Make sure to put them right.
   
   * Type "fan" in the application which will give you the information of this command
   
+    
       ![image](https://user-images.githubusercontent.com/65723218/116962072-a82bae80-acc2-11eb-9508-113070420d98.png)
-
+      
   * To Turn on the fan type "fan on" and to off it type "fan off".
     
     ON    
-    ![image](https://user-images.githubusercontent.com/65723218/116962500-bd550d00-acc3-11eb-9324-0f9d6f8f5fbc.png)
+    <img src="https://user-images.githubusercontent.com/65723218/116962500-bd550d00-acc3-11eb-9324-0f9d6f8f5fbc.png" width="300" height="300"/>
     
     OFF
-    ![image](https://user-images.githubusercontent.com/65723218/116962528-d1007380-acc3-11eb-8c95-77df786af8ee.png)
+    <img src="(https://user-images.githubusercontent.com/65723218/116962528-d1007380-acc3-11eb-8c95-77df786af8ee.png" width="300" height="300"/>
    
     
   #### RGB command
   
   * Type "rgb" in the application which will give you the information of this command.
-
-    ![image](https://user-images.githubusercontent.com/65723218/116962450-9f87a800-acc3-11eb-8821-5b1b09db5b9b.png)
+    
+    <img src=https://user-images.githubusercontent.com/65723218/116962450-9f87a800-acc3-11eb-8821-5b1b09db5b9b.png"" width="300" height="300"/>
    
   * Type "rgb magenta" for magenta colour.
-      
-      ![image](https://user-images.githubusercontent.com/65723218/116962610-115ff180-acc4-11eb-855d-a33795f26ba1.png)
+    
+    <img src="https://user-images.githubusercontent.com/65723218/116962610-115ff180-acc4-11eb-855d-a33795f26ba1.png" width="300" height="300"/>
 
   * Similarly one could customize the device according to his or her personality like I did.
-        
-       ![image](https://user-images.githubusercontent.com/65723218/116962705-57b55080-acc4-11eb-950b-556164f3def3.png)
+   
+   <img src="https://user-images.githubusercontent.com/65723218/116962705-57b55080-acc4-11eb-950b-556164f3def3.png" width="300" height="300"/>
 
   #### Timer command    
-    
     
     
     
