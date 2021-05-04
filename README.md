@@ -53,7 +53,7 @@ Here is the circuit diagram for the device. Make sure to put them right.
   
   * Type "rgb" in the application which will give you the information of this command.
     
-    <img src=https://user-images.githubusercontent.com/65723218/116962450-9f87a800-acc3-11eb-8821-5b1b09db5b9b.png"" width="350" height="300"/>
+    ![image](https://user-images.githubusercontent.com/65723218/116963153-a3b4c500-acc5-11eb-8918-68d8fde44e1d.png)
    
   * Type "rgb magenta" for magenta colour.
     
@@ -65,6 +65,40 @@ Here is the circuit diagram for the device. Make sure to put them right.
 
   #### Timer command    
     
+   * Type "timer" in the application and this will give you the information of this command.
+      
+      ![image](https://user-images.githubusercontent.com/65723218/116963256-fbebc700-acc5-11eb-8ecc-c343f4f57270.png)
+   * Type "timer 5" for a timer of 5 seconds
+
+   * One could also calculate the number of seconds by some simple math operations
+   
+  #### Help command
+    
+   * Type "help" in the application and this will give you the list of commands which are valide in this application.
+
+      ![image](https://user-images.githubusercontent.com/65723218/116961908-2fc4ed80-acc2-11eb-8414-7ad3302b4b1b.png)
+      
+  #### Quit command
+  
+   * This command could be used to quit the application.
+
+
+
+
+
+
+
+
+
+**SECRET COMMAND**
+
+#### Cls command
+
+* This command could be used to clear the console
+
+
+
+
     
     
     
