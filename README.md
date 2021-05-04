@@ -97,6 +97,7 @@ Here is the circuit diagram for the device. Make sure to put them right.
 * This command could be used to clear the console
 
 
+### Hope you liked the project to see the full demo video of this go to https://www.youtube.com/watch?v=jZ1BJ7k8-tA . 
 
 
     
